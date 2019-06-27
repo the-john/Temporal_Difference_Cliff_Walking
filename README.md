@@ -30,3 +30,7 @@ This Jupyter Notebook has sample code that uses:
 There is some Python test code to make sure things are working as expected, and can be found here [check_test.py](https://viewsyedytqpmq.udacity-student-workspaces.com/edit/check_test.py).
 
 To help plot some of this code's output, I use [plot_utils.py](https://viewsyedytqpmq.udacity-student-workspaces.com/edit/plot_utils.py).
+
+What I learned was that the Sarsa Policy actually does better than the Q-Learning because of the high consequences Q-Learning pays when close to the edge due to the Epsilon-Greedy Policy.  The figures below are from Example 6.6 (page 132) in the book **Reinforcement Learning** Second Edition, Richard S. Sutton and Andrew G. Barto.  You can download a copy of this book from here, [Reinforcement Learning](https://s3-us-west-1.amazonaws.com/udacity-drlnd/bookdraft2018.pdf)
+
+![]()
