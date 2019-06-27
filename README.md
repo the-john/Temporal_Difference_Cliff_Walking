@@ -34,3 +34,5 @@ To help plot some of this code's output, I use [plot_utils.py](https://viewsyedy
 What I learned was that the Sarsa Policy actually does better than the Q-Learning because of the high consequences Q-Learning pays when close to the edge due to the Epsilon-Greedy Policy.  The figures below are from Example 6.6 (page 132) in the book **Reinforcement Learning** Second Edition, Richard S. Sutton and Andrew G. Barto.  You can download a copy of this book from here, [Reinforcement Learning](https://s3-us-west-1.amazonaws.com/udacity-drlnd/bookdraft2018.pdf)
 
 ![](https://github.com/the-john/Temporal_Difference_Cliff_Walking/blob/master/TD.JPG)
+
+The Python code for the environment can be found here, [cliffwalking.py](https://github.com/openai/gym/blob/master/gym/envs/toy_text/cliffwalking.py)
